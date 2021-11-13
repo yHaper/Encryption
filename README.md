@@ -11,5 +11,5 @@ cd Encrypt
 python Encrypt.py
 
 
-         #Tool created by: yHaper
+         Tool created by: yHaper
 
