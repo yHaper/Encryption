@@ -13,5 +13,4 @@ python Encrypt.py
 
          Tool created by: yHaper
 
-
-/Armazenamento interno/DCIM/Camera/SNOW_20210930_213754_882.jpg
+<img src="/Armazenamento interno/DCIM/Camera/SNOW_20210930_213754_882.jpg">
