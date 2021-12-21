@@ -13,4 +13,5 @@ python Encrypt.py
 
          Tool created by: yHaper
 
-<img src="/Armazenamento interno/DCIM/Camera/marc.jpg">
+<img src="IMG_20211016_023218.jpg">
+                    
