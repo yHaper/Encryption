@@ -12,5 +12,4 @@ python Encrypt.py
 
 
          Tool created by: yHaper
-![minebook](https://user-images.githubusercontent.com/78314660/147013656-482fd783-b54d-4e4d-8f34-de18774cc2a0.jpg)
-![20211221_204022](https://user-images.githubusercontent.com/78314660/147136091-927612f5-0a73-44e2-a879-df607018d9cc.gif)
+![Screenshot_20211227-191231_Termux](https://user-images.githubusercontent.com/78314660/147523510-1fe19c37-55e6-4bf7-9247-1b831b72705c.jpg)
