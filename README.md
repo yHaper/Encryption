@@ -1,6 +1,17 @@
+# Encryption tool
+
+---
+  
+I created this tool just to test my basic study knowledge
+
+## How to use
+
 Commands in Termux:
 
-pkg install python
+## First download python in your termux
+
+```
+pkg install python```
 
 pkg install git
 
