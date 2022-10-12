@@ -37,7 +37,7 @@ python Encrypt.py
 ```
 > **Output**:
 
-![20221012_182617](https://user-images.githubusercontent.com/78314660/195452199-eb24bdd2-55cb-4311-b025-0596413a16f0.gif)
+![20221012_190007](https://user-images.githubusercontent.com/78314660/195457305-339692e1-58d9-42b1-bb97-335959562044.gif)
 
 ## Technologies
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
