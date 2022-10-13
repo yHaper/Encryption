@@ -21,13 +21,13 @@ pkg install git
 ## 3.Copy the repository address link and run the following command
 
 ```
-git clone https://github.com/yHaper/Encrypt
+git clone https://github.com/yHaper/Encryption
 ```
 
 ## 4.Go to the repository folder using the following command
 
 ```
-cd Encrypt
+cd Encryption
 ```
 
 ## 5.Finally, run the script with the following command
