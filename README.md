@@ -4,6 +4,8 @@
   
 I created this tool just to test my basic study knowledge
 
+![jsjsjs](https://user-images.githubusercontent.com/78314660/195667676-636a26af-48e2-49dd-8b83-61c9d505d048.jpg)
+
 ## How to use
 
 ## 1.First download python in your termux
