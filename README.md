@@ -33,7 +33,7 @@ cd Encrypt
 ## 5.Finally, run the script with the following command
 
 ```
-python Encrypt.py
+python encryption.py
 ```
 > **Output**:
 
